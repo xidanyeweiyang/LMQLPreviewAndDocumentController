@@ -1,0 +1,2 @@
+# LMQLPreviewAndDocumentController
+LMQLPreviewAndDocumentController打开word.excel.pdf可以通过第三方,还有文件处理,缓存大小,以及缓存清理
